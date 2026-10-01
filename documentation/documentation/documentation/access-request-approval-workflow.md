@@ -128,6 +128,13 @@ The following evidence should be retained:
 - Group membership evidence
 - Date/time of access change
 - Any subsequent access review
+- ## Evidence
+
+The following evidence supports the access request and provisioning workflow:
+
+- `access-request-form.md` — documented access request and approval record
+- `09-access-request-sarah-provisioned.png` — Microsoft Entra ID group membership showing the provisioned access
+- `10-access-request-audit-log.png` — Microsoft Entra ID audit log showing the group membership change
 
 ## 11. Project Implementation Notes
 
